@@ -1,0 +1,15 @@
+{
+  "domain": "ipx800_v3",
+  "name": "IPX800 V3",
+  "codeowners": [
+    "@florentrobin"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/ipx800_v3",
+  "homekit": {},
+  "iot_class": "local_push",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
